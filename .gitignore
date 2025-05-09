@@ -1,0 +1,14 @@
+.venv
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+downloads
+temp
+decensored
+dist
+build
+token.pickle
+logs.txt
+bearer.txt
+test.py
