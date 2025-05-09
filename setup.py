@@ -245,7 +245,7 @@ class SavedDNSDialog(QDialog):
 class DNSChangerApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("DNS Changer (PyQt6)")
+        self.setWindowTitle("DNS Changer")
         self.setFixedWidth(400)
         self.init_ui()
 
