@@ -10,6 +10,9 @@ if exist build rmdir /s /q build
 set VENV_CMD=.venv\Scripts\
 if not exist .venv set VENV_CMD=
 
+:: Install required packages
+%VENV_CMD%pip install -r requirements.txt
+
 :: Build optimized executable
 %VENV_CMD%pyi-makespec ^
   --onefile ^
