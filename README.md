@@ -7,7 +7,7 @@
 
 A powerful and user-friendly Windows application that allows you to quickly change DNS settings across network interfaces. Perfect for network administrators, developers, and users who frequently need to switch between different DNS configurations.
 
-![DNS Changer Screenshot](https://github.com/Kurdeus/DNS-Changer/blob/main/screenshot/result.png?raw=true)
+![DNS Changer Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -27,14 +27,14 @@ A powerful and user-friendly Windows application that allows you to quickly chan
 ## 🚀 Installation
 
 ### For Users
-1. Download the latest release from the [Releases](https://github.com/Kurdeus/DNS-Changer/releases) page
+1. Download the latest release from the [Releases](https://github.com/yourusername/dns-changer/releases) page
 2. Run the executable file
 3. The application will automatically request administrator privileges
 
 ### For Developers
 ```bash
 # Clone the repository
-git clone https://github.com/Kurdeus/DNS-Changer.git
+git clone https://github.com/yourusername/dns-changer.git
 
 # Navigate to the project directory
 cd dns-changer
@@ -100,4 +100,6 @@ This project is open source and available under the MIT License. See the [LICENS
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/dns-changer](https://github.com/Kurdeus/DNS-Changer)
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+
+Project Link: [https://github.com/yourusername/dns-changer](https://github.com/yourusername/dns-changer)
