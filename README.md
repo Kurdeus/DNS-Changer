@@ -7,7 +7,7 @@
 
 A powerful and user-friendly Windows application that allows you to quickly change DNS settings across network interfaces. Perfect for network administrators, developers, and users who frequently need to switch between different DNS configurations.
 
-![DNS Changer Screenshot](screenshot.png)
+![DNS Changer Screenshot](https://github.com/Kurdeus/DNS-Changer/blob/main/screenshot/result.png?raw=true)
 
 ## ✨ Features
 
